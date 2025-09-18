@@ -32,14 +32,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<a href="https://github.com/Datsiura">
+<a href="https://github.com/o-datsiura">
   <table>
   <tr>
-      <td><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Datsiura&theme=radical&show_icons=true&locale=en" alt="Datsiura" /></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Datsiura&show_icons=true&theme=radical&locale=en&layout=compact" alt="Datsiura" /></td>
+      <td><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=o-datsiura&theme=radical&show_icons=true&locale=en" alt="o-datsiura" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=o-datsiura&show_icons=true&theme=radical&locale=en&layout=compact" alt="o-datsiura" /></td>
   </tr>   
 </table>
 </a>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Datsiura" alt="Datsiura" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o-datsiura" alt="o-datsiura" /></a></p>
 # datsiura
